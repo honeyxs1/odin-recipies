@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #555656;
+}
+.mainheading{
+    font-size: 40px;
+    background-color: #003135;
+    color: rgba(255, 255, 255, 0.58);
+    padding: 10px;
+}
+.foods{
+    font-size: 30px;
+    padding: 3%;
+    background-color: #a6d7dc;
+    
+}

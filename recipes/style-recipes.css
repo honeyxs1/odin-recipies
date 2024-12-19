@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.lasagna{
+    background-color: #FFF3E0;
+    color: #4E342E;
+}
+
+.mainheading{
+    font-size: 35px;
+    color: #4e342ec6;
+    padding: 3%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+#lasagna{
+    margin-left: 300px;
+}
+
+p{
+    padding: 3%;
+    font-size: large;
+    padding-bottom: 1%;
+}
+
+.second-heading{
+    font-size: 30px;
+    padding: 3%;
+    padding-bottom: 0.1%;
+}
+.third-heading{
+    font-size: 30px;
+    padding: 3%;
+    padding-bottom: 0.1%;
+}
+
+.ingredients{
+    padding: 3%;
+    padding-bottom: 1%;
+}
+.steps{
+    padding: 3%;
+}
+
+.biryanimg{
+    margin-left: 500px;
+}
+.biryani{
+    background-color: #FFF3E0;
+}
